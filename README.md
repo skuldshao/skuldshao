@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br /> 📫 Connect with me on LinkedIn https://www.linkedin.com/in/skuld-shao/)
 <br /> ⚡ Love to try new ideas with the power of technology!
 
-### What I aspire to be in my daily life(sorta :)):
+### What I aspire to be in my daily life(sorta):
 <br /> <img src="https://github.com/skuldshao/skuldshao/raw/main/Be_creative.gif" width=300><br>
 
 
