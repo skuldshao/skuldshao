@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 #### What I aspire to be:
  
-<br /> <img src="https://github.com/skuldshao/skuldshao/raw/main/Be_creative.gif" width=600><br>
+<br /> <img src="https://github.com/skuldshao/skuldshao/raw/main/Be_creative.gif" width=400><br>
 
 
