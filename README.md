@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 <br /> ⚡ Love to try new ideas with the power of technology!
 
-<br /> What I aspire to be:
-<br /> <img src="https://github.com/skuldshao/skuldshao/raw/main/Be_creative.gif" width=200><br>
+<br /> 
+@settings {
+  font-size: 100;
+  What I aspire to be:
+}
+<br /> <img src="https://github.com/skuldshao/skuldshao/raw/main/Be_creative.gif" width=600><br>
 
 
