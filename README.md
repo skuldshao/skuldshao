@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Skuld Shao, a second-year Computer Science and Business major at Northeastern.
-💼 I’m currently a Product Manager Intern at ServiceNow.
-📫 Connect with me on LinkedIn https://www.linkedin.com/in/skuld-shao/)
+- 👋 Hi, I’m Skuld Shao, a second-year Computer Science and Business major at Northeastern.
+- 💼 I’m currently a Product Manager Intern at ServiceNow.
+- 📫 Connect with me on LinkedIn https://www.linkedin.com/in/skuld-shao/)
 
-⚡ Love to try new ideas with the power of technology!
+- ⚡ Love to try new ideas with the power of technology!
 
-What I aspire to be:
-<img src="https://github.com/skuldshao/skuldshao/raw/main/Be_creative.gif" width=200><br>
+- What I aspire to be:
+- <img src="https://github.com/skuldshao/skuldshao/raw/main/Be_creative.gif" width=200><br>
 
 
