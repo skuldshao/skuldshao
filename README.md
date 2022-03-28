@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br /> 👋 Hi, I’m Skuld Shao, a Computer Science and Business major at Northeastern.
 <br /> 💼 I’m currently a Product Manager Intern at ServiceNow.
-<br /> 📫 Connect with me on LinkedIn https://www.linkedin.com/in/skuld-shao/)
+<br /> 📫 Connect with me on LinkedIn https://www.linkedin.com/in/skuld-shao/
 <br /> ⚡ Love to try new ideas with the power of technology!
 
 ### What I aspire to be in my daily life(sorta):
