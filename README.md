@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br /> 👋 Hi, I’m Skuld Shao, a Computer Science and Business major at Northeastern.
+<br /> 👋 Hi, I’m Skuld Shao, a Computer Science, Business, and Philosophy major at Northeastern.
 <br /> 💼 I’m currently a Product Manager Intern at ServiceNow.
 <br /> 📫 Connect with me on LinkedIn https://www.linkedin.com/in/skuld-shao/
 <br /> ⚡ Love to try new ideas with the power of technology!
