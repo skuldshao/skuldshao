@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skuldshao&label=Profile%20views&color=0e75b6&style=flat" alt="skuldshao" /> </p>
 
-- 📫 How to reach me **skuldshaocareer@gmail.com**
+- 📫 How to reach me **skuldwanrushao@gmail.com**
 
 
 
